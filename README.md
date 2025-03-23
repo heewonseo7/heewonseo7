@@ -3,9 +3,8 @@
 <h1 align="left">☕ Hey there, I'm Heewon! </h1>
 
 <!-- Typing text animation -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
+
 
 ---
 
@@ -14,7 +13,6 @@
 - 💡 Passionate about **full-stack development, AI, and interactive UI/UX**  
 - 🎨 I enjoy designing **minimal & aesthetic web experiences**  
 - 📚 Currently learning **new web frameworks & data structures**  
-- ☕ Favorite drink: **Matcha latte / Espresso**  
 
 ---
 
