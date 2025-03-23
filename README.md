@@ -14,11 +14,11 @@
 
 ## **📊 GitHub Stats**
 <!-- GitHub Stats with coffee theme colors -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonseo7&show_icons=true&count_private=true&hide_border=true&title_color=7D4F3F&text_color=8B5A2B&icon_color=A98274&bg_color=FFF8F0" alt="Heewon's GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=heewonseo7&hide_border=true&background=FFF8F0&stroke=C8A27C&ring=A98274&fire=7D4F3F&currStreakNum=7D4F3F&sideNums=7D4F3F&currStreakLabel=A98274&sideLabels=8B5A2B&dates=C8A27C" alt="Heewon's GitHub Streak" />
-</p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=heewonseo7&show_icons=true&count_private=true&hide_border=true&title_color=7D4F3F&text_color=8B5A2B&icon_color=A98274&bg_color=FFF8F0" width="48%" alt="Heewon's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=heewonseo7&hide_border=true&background=FFF8F0&stroke=C8A27C&ring=A98274&fire=7D4F3F&currStreakNum=7D4F3F&sideNums=7D4F3F&currStreakLabel=A98274&sideLabels=8B5A2B&dates=C8A27C" width="48%" alt="Heewon's GitHub Streak" />
+</div>
+
 
 ## **🔧 Tech Stack**
 <p align="left">
