@@ -15,7 +15,7 @@
 ## **📊 GitHub Stats**
 <!-- GitHub Stats with coffee theme colors -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonseo7&show_icons=true&count_private=true&hide_border=true&title_color=7D4F3F&text_color=8B5A2B&icon_color=A98274&bg_color=FFF8F0" height="180px" width="48%" alt="Heewon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heewonseo7&show_icons=true&count_private=true&hide_border=true&title_color=7D4F3F&text_color=8B5A2B&icon_color=A98274&bg_color=FFF8F0" height="180px" alt="Heewon's GitHub Stats" />
 </p>
 
 
