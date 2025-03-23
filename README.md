@@ -3,7 +3,7 @@
 <h1 align="left">☕ Hey there, I'm Heewon! </h1>
 
 <!-- Typing text animation -->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
 </p>
 
@@ -20,14 +20,14 @@
 
 ## **📊 GitHub Stats**
 <!-- GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=heewonseo7&theme=calm&hide_border=true" alt="heewonseo7's GitHub Stats" />
 </p>
 
 ---
 
 ## **🔧 Tech Stack**
-<p align="center">
+<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
@@ -48,7 +48,7 @@
 ---
 
 ## **📫 Connect With Me**
-<p align="center">
+<p align="left">
   <a href="[https://www.linkedin.com/in/YourLinkedIn/](https://www.linkedin.com/in/heewon-seo-4b652621b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:heewon_seo@brown.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat-square&logo=internet-explorer&logoColor=white"></a>
