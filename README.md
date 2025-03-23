@@ -45,7 +45,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"></a>
 </p>
----
 
 ## **📫 Connect With Me**
 <p align="left">
