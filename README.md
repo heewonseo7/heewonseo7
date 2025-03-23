@@ -49,5 +49,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/heewon-seo-4b652621b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:heewon_seo@brown.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <!--
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat-square&logo=internet-explorer&logoColor=white"></a>
+  -->
 </p>
