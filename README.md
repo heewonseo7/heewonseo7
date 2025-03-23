@@ -14,8 +14,6 @@
 - 🎨 I enjoy designing **minimal & aesthetic web experiences**  
 - 📚 Currently learning **new web frameworks & data structures**  
 
----
-
 ## **📊 GitHub Stats**
 <!-- GitHub Stats with coffee theme colors -->
 <p align="left">
@@ -23,8 +21,6 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=heewonseo7&hide_border=true&background=FFF8F0&stroke=C8A27C&ring=A98274&fire=7D4F3F&currStreakNum=7D4F3F&sideNums=7D4F3F&currStreakLabel=A98274&sideLabels=8B5A2B&dates=C8A27C" alt="Heewon's GitHub Streak" />
 </p>
-
----
 
 ## **🔧 Tech Stack**
 <p align="left">
@@ -51,8 +47,6 @@
   <!-- Other -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
 </p>
-
----
 
 ## **📫 Connect With Me**
 <p align="left">
