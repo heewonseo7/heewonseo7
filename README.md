@@ -1,9 +1,6 @@
 <!-- Header with centered aesthetic intro -->
-<p align="center">
-  <img src="https://i.imgur.com/FmVbQO4.png" width="100px"> <!-- (Replace with your own matcha/coffee icon) -->
-</p>
 
-<h1 align="center">☕ Hey there, I'm [Your Name]! 🌿</h1>
+<h1 align="left">☕ Hey there, I'm Heewon! </h1>
 
 <!-- Typing text animation -->
 <p align="center">
@@ -13,7 +10,7 @@
 ---
 
 ## **📍 About Me**
-- 🍵 I’m currently a student at **Brown University**, studying **Applied Math & CS**  
+- 🍵 I’m currently a student at **Brown University**, studying **Applied Math + Computer Science**  
 - 💡 Passionate about **full-stack development, AI, and interactive UI/UX**  
 - 🎨 I enjoy designing **minimal & aesthetic web experiences**  
 - 📚 Currently learning **new web frameworks & data structures**  
@@ -24,36 +21,40 @@
 ## **📊 GitHub Stats**
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=heewonseo7&theme=calm&hide_border=true" alt="heewonseo7's GitHub Stats" />
 </p>
 
 ---
 
 ## **🔧 Tech Stack**
+### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,flask,tailwind,figma,git,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js,html,css" />
 </p>
 
----
+### **Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,sass,flask" />
+</p>
 
-## **🌱 Fun Stuff**
-- 🎧 Currently vibing to: **[Spotify Now Playing](https://github.com/kittinan/github-readme-spotify)**
-- 🎮 Favorite games: **[Your Games Here]**
-- 🧩 Always up for a **Rubik’s Cube challenge!**
+### **Data & Scientific Computing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+### **Other Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=astro,git,docker" />
+</p>
 
 ---
 
 ## **📫 Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YourLinkedIn/](https://www.linkedin.com/in/heewon-seo-4b652621b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:heewon_seo@brown.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat-square&logo=internet-explorer&logoColor=white"></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/NJbPU8U.png" width="150px"> <!-- (Matcha/Coffee aesthetic divider) -->
-</p>
 
