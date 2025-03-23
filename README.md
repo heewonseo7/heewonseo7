@@ -1,15 +1,15 @@
-<!-- Header with centered aesthetic intro -->
-
+<!-- Header with left-aligned aesthetic intro -->
 <h1 align="left">☕ Hey there, I'm Heewon! </h1>
 
-<!-- Typing text animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
-
+<!-- Typing text animation - fixed alignment issue -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
+</p>
 
 ---
 
 ## **📍 About Me**
-- 🍵 I’m currently a student at **Brown University**, studying **Applied Math + Computer Science**  
+- 🍵 I'm currently a student at **Brown University**, studying **Applied Math + Computer Science**  
 - 💡 Passionate about **full-stack development, AI, and interactive UI/UX**  
 - 🎨 I enjoy designing **minimal & aesthetic web experiences**  
 - 📚 Currently learning **new web frameworks & data structures**  
@@ -44,12 +44,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"></a>
 </p>
 
+---
+
 ## **📫 Connect With Me**
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YourLinkedIn/](https://www.linkedin.com/in/heewon-seo-4b652621b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/heewon-seo-4b652621b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:heewon_seo@brown.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-20C20E?style=flat-square&logo=internet-explorer&logoColor=white"></a>
 </p>
-
----
-
