@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Building+cool+projects!">
 </p>
 
----
-
 ## **📍 About Me**
 - 🍵 I'm currently a student at **Brown University**, studying **Applied Math + Computer Science**  
 - 💡 Passionate about **full-stack development, AI, and interactive UI/UX**  
