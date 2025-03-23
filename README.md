@@ -3,7 +3,7 @@
 
 <!-- Typing text animation - fixed alignment issue -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Lover+of+Matcha+%26+Coffee;Building+cool+projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A98274&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+about+AI+%26+ML;Building+cool+projects!">
 </p>
 
 ---
