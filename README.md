@@ -1,5 +1,5 @@
 <!-- Header with left-aligned aesthetic intro -->
-<h1 align="left">Hey there, I'm Heewon! </h1>
+<h1 align="left">🍠 Hey there, I'm Heewon! </h1>
 
 <!-- Typing text animation - fixed alignment issue -->
 <p align="left">
