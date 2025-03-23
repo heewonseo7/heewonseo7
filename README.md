@@ -1,5 +1,5 @@
 <!-- Header with left-aligned aesthetic intro -->
-<h1 align="left">☕ Hey there, I'm Heewon! </h1>
+<h1 align="left">Hey there, I'm Heewon! </h1>
 
 <!-- Typing text animation - fixed alignment issue -->
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 ## **📍 About Me**
-- 🍵 I'm currently a student at **Brown University**, studying **Applied Math + Computer Science**  
+- ☕ I'm currently a student at **Brown University**, studying **Applied Math + Computer Science**  
 - 💡 Passionate about **full-stack development, AI, and interactive UI/UX**  
 - 🎨 I enjoy designing **minimal & aesthetic web experiences**  
 - 📚 Currently learning **new web frameworks & data structures**  
