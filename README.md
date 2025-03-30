@@ -51,12 +51,6 @@ I'm a student at Brown University studying Applied Mathematics and Computer Scie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heewonseo7&hide_border=true&background=FFF8F0&stroke=7D4F3F&ring=A98274&fire=7D4F3F&currStreakNum=8B5A2B&sideNums=8B5A2B&currStreakLabel=7D4F3F&sideLabels=7D4F3F&dates=A98274" height="160em" />
 </div>
 
-## Current Projects
-
-- 🌐 Working on a personalized AI learning assistant
-- 🎮 Building interactive web experiences with React and Three.js
-- 📊 Exploring data visualization techniques
-
 ## Connect With Me
 
 <div align="left">
