@@ -11,7 +11,6 @@ I'm a student at Brown University studying Applied Mathematics and Computer Scie
 - 🌱 Exploring full-stack development, AI, and interactive UI/UX
 - 🎨 Crafting minimal and intuitive web experiences
 - 📚 Always learning new web frameworks and data structures
-- ☕ Fueled by curiosity (and coffee)
 
 ## Tech Stack
 
