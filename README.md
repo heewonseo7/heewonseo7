@@ -1,4 +1,4 @@
-# ☕ Heewon Seo
+# Hey there, Heewon!
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7D4F3F&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Applied+Math+%2B+CS+%40+Brown;AI+%26+Interactive+UI%2FUX+Enthusiast">
