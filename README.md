@@ -27,10 +27,10 @@
    <br>
    <!-- Snake svg  -->
    <div align="center">
-      <img  src="Assets/grid-snake.svg" alt="snake" />
+      <img src="Assets/grid-snake.svg" alt="snake" />
    </div>
    <!-- General Information -->
-   <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
+   ## <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
    - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
    - 🌱 Passionate about **AI/ML technologies** and their applications in real-world scenarios.
    - 🎓 Currently pursuing a **B.S. in Computer Science** with a focus on **AI and data science.**
@@ -40,7 +40,7 @@
    <br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <!-- Languages/Frameworks/Tools -->
-   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Languages, Frameworks, and Tools</b>
+   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Languages, Frameworks, and Tools</b>
    <div>
    
    <p align="center">
@@ -64,13 +64,17 @@
             <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&perline=5" />
          </a>
       </p>
+   </div>
       
    <br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <!-- GitHub Stats -->
-   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats 
+   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonseo7&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   
    [![GitHub Streak](https://streak-stats.demolab.com?user=heewonseo7&theme=dark)](https://git.io/streak-stats)
+   
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <!--end message -->
    <div align="center">
