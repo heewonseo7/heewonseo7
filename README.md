@@ -10,14 +10,14 @@
    </div>
    <!-- Typing svg -->
    <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=620&height=60&lines=Heewon+Seo;Software+Developer;Machine+Learning+Enthusiast;+%E0%BC%98%E2%8B%86+Designer+%E2%98%85%E2%8B%86.+%E0%BF%90%E0%BF%94+;" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=620&height=60&lines=Heewon+Seo;Software+Developer;Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
    </p>
    <!-- Badges  -->
    <div id="badges" align="center">
       <a href="https://github.com/heewonseo7">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/heewon-seo/">
+      <a href="https://shorturl.at/DHy1o">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://heewonseo7.github.io/portfolio/">
@@ -30,7 +30,7 @@
       <img  src="Assets/grid-snake.svg" alt="snake" />
    </div>
    <!-- General Information -->
-   ## <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
+   <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
    - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
    - 🌱 Passionate about **AI/ML technologies** and their applications in real-world scenarios.
    - 🎓 Currently pursuing a **B.S. in Computer Science** with a focus on **AI and data science.**
@@ -40,7 +40,7 @@
    <br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <!-- Languages/Frameworks/Tools -->
-   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Languages, Frameworks, and Tools</b>
+   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Languages, Frameworks, and Tools</b>
    <div>
    
    <p align="center">
