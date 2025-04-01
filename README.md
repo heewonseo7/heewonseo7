@@ -83,6 +83,7 @@
      <b>Github Stats</b>
    </h2>
 
+<!--
    <div style="display:inline">
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonseo7&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
       [![GitHub Streak](https://streak-stats.demolab.com?user=heewonseo7&theme=dark)](https://git.io/streak-stats)
