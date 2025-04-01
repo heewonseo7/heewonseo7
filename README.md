@@ -1,69 +1,86 @@
-# Hey there, I'm Heewon!
-
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7D4F3F&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Applied+Math+%2B+CS+%40+Brown;AI+%26+Interactive+UI%2FUX+Enthusiast">
-</div>
-
-## About Me
-
-I'm a student at Brown University studying Applied Mathematics and Computer Science with a passion for building aesthetic digital experiences.
-
-- 🌱 Exploring full-stack development, AI, and interactive UI/UX
-- 🎨 Crafting minimal and intuitive web experiences
-- 📚 Always learning new web frameworks and data structures
-
-## Tech Stack
-
-<details open>
-<summary><b>Languages</b></summary>
-<br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Frameworks & Libraries</b></summary>
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Data Science</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</details>
-
-## GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonseo7&show_icons=true&count_private=true&hide_border=true&title_color=7D4F3F&text_color=8B5A2B&icon_color=A98274&bg_color=FFF8F0" height="160em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heewonseo7&hide_border=true&background=FFF8F0&stroke=7D4F3F&ring=A98274&fire=7D4F3F&currStreakNum=8B5A2B&sideNums=8B5A2B&currStreakLabel=7D4F3F&sideLabels=7D4F3F&dates=A98274" height="160em" />
-</div>
-
-## Connect With Me
-
-<div align="left">
-  <a href="https://linkedin.com/in/heewonseo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:heewon_seo@brown.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heewonseo7&color=A98274&style=flat-square" />
+<!--Heewon Seo's Profile Page-->
+<div style="font-family:Garamond">
+   <!-- Header text -->
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <div id="user-content-toc">
+   <ul align="center">
+         <h1 align="center" style="font-size: 45px"><b>Hello, I'm Heewon Seo! </b>
+         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+   </ul>
+   </div>
+   <!-- Typing svg -->
+   <p align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=620&height=60&lines=Heewon+Seo;Software+Developer;Machine+Learning+Enthusiast;+%E0%BC%98%E2%8B%86+Designer+%E2%98%85%E2%8B%86.+%E0%BF%90%E0%BF%94+;" alt="Typing SVG" /></a>
+   </p>
+   <!-- Badges  -->
+   <div id="badges" align="center">
+      <a href="https://github.com/heewonseo7">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/heewon-seo/">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://heewonseo7.github.io/portfolio/">
+         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+      </a>
+   </div>
+   <br>
+   <!-- Snake svg  -->
+   <div align="center">
+      <img src="https://raw.githubusercontent.com/heewonseo7/heewonseo7/output/github-contribution-grid-snake.svg" alt="snake" />
+   </div>
+   <!-- General Information -->
+   ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+   - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
+   - 🌱 Passionate about **AI/ML technologies** and their applications in real-world scenarios.
+   - 🎓 Currently pursuing a **B.S. in Computer Science** with a focus on **AI and data science.**
+   - 🚀 Working on projects that combine **cutting-edge technology** with **intuitive user experiences.**
+   - 📫 Feel free to reach out to me at **hello@heewonseo.dev**.
+   - 👥 Connect with me on **[LinkedIn](https://linkedin.com/in/heewon-seo).**
+   <br>
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <!-- Languages/Frameworks/Tools -->
+   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> Languages, Frameworks, and Tools</b>
+   <div>
+   
+   <p align="center">
+   - <h4> Languages: </h4>
+      <p align="left">
+         <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,r&perline=8" />
+         </a>
+      </p>
+   - <h4> Frameworks/Tools: </h4>
+      <p align="left">
+         <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,express,django,flask,bootstrap,redux&perline=9" />
+         </a>
+      </p>
+   - <h4> Services: </h4>
+      <p align="left" >
+         <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=aws,docker,firebase,postgres,mongodb,mysql&perline=6" />
+            <br>
+            <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&perline=5" />
+         </a>
+      </p>
+      
+   <br>
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <!-- GitHub Stats -->
+   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonseo7&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=heewonseo7&theme=dark)](https://git.io/streak-stats)
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <!--end message -->
+   <div align="center">
+   <p style="font-size: 35px">
+   𐦍༘⋆
+   </p>
+   <p>
+   Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out and connect. Let's create innovative and impactful solutions together!
+   </p>
+   
+   [![](https://visitcount.itsvg.in/api?id=heewonseo7&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+   </div>
 </div>
