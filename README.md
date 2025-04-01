@@ -27,10 +27,10 @@
    <br>
    <!-- Snake svg  -->
    <div align="center">
-      <img  src="assets/grid-snake.svg" alt="snake" />
+      <img  src="Assets/grid-snake.svg" alt="snake" />
    </div>
    <!-- General Information -->
-   ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
+   ## <picture><img src = "Assets/about_me.gif" width = 50px></picture> **About me**
    - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
    - 🌱 Passionate about **AI/ML technologies** and their applications in real-world scenarios.
    - 🎓 Currently pursuing a **B.S. in Computer Science** with a focus on **AI and data science.**
