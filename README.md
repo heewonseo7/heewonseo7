@@ -77,13 +77,14 @@
       
    <br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
    <!-- GitHub Stats -->
+   <!--
    <h2>
      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
      <b>Github Stats</b>
    </h2>
 
-<!--
    <div style="display:inline">
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonseo7&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
       [![GitHub Streak](https://streak-stats.demolab.com?user=heewonseo7&theme=dark)](https://git.io/streak-stats)
