@@ -37,12 +37,12 @@
      <b>About me</b>
    </h2>
    
-   - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
+   - 👩‍💻 I am a **software developer (full-stack)** with an interest in **machine learning.**
    - 🌱 Passionate about **AI/ML technologies** and their applications in real-world scenarios.
-   - 🎓 Currently pursuing a **B.S. in Computer Science** with a focus on **AI and data science.**
+   - 🎓 Currently pursuing a **B.S. in Applied Math & Computer Science** at Brown University.
    - 🚀 Working on projects that combine **cutting-edge technology** with **intuitive user experiences.**
-   - 📫 Feel free to reach out to me at **hello@heewonseo.dev**.
-   - 👥 Connect with me on **[LinkedIn](https://linkedin.com/in/heewon-seo).**
+   - 📫 Feel free to reach out to me at **heewon_seo@brown.edu**.
+   - 👥 Connect with me on **[LinkedIn](https://shorturl.at/DHy1o).**
    <br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <!-- Languages/Frameworks/Tools -->
@@ -56,7 +56,7 @@
    - <h4> Languages: </h4>
       <p align="left">
          <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,r&perline=8" />
+         <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,&perline=8" />
          </a>
       </p>
    - <h4> Frameworks/Tools: </h4>
@@ -68,9 +68,9 @@
    - <h4> Services: </h4>
       <p align="left" >
          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws,docker,firebase,postgres,mongodb,mysql&perline=6" />
+            <img src="https://skillicons.dev/icons?i=aws,docker,firebase,postgres,mongodb,&perline=6" />
             <br>
-            <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma&perline=5" />
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=5" />
          </a>
       </p>
    </div>
@@ -94,7 +94,7 @@
    𐦍༘⋆
    </p>
    <p>
-   Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out and connect. Let's create innovative and impactful solutions together!
+   Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out and connect!
    </p>
    
    [![](https://visitcount.itsvg.in/api?id=heewonseo7&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
